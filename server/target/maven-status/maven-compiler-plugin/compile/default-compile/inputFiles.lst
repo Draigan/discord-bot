@@ -1,3 +1,7 @@
-/home/dre/repos/discord-bot/server/src/main/java/com/dre/webserver/WebServerApplication.java
-/home/dre/repos/discord-bot/server/src/main/java/com/dre/webserver/Photo.java
-/home/dre/repos/discord-bot/server/src/main/java/com/dre/webserver/PhotozController.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/model/Photo.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/ServerApplication.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/services/PhotoService.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/config/CorsConfig.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/controllers/DownloadController.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/sql/PostgresJDBC.java
+/home/dre/repos/discord-bot/server/src/main/java/com/dre/Server/controllers/PhotosController.java

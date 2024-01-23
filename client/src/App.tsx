@@ -15,7 +15,6 @@ function App() {
       }}
     >
       <FormContainer />
-      <Upload />
     </div>
   );
 }

@@ -1,0 +1,5 @@
+com/dre/Server/sql/PostgresJDBC.class
+com/dre/Server/services/PhotoService.class
+com/dre/Server/services/PhotoService$1.class
+com/dre/Server/model/Photo.class
+com/dre/Server/ServerApplication.class
